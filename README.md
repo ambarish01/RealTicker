@@ -327,13 +327,11 @@ Built as part of the Sorim.AI Hackathon Technical Assessment.
 - FastAPI for the excellent framework
 - React team for the UI library
 
-## 📞 Support
+## 📞 Contact & Support
 
-For issues and questions:
-1. Check the troubleshooting section
-2. Review API documentation
-3. Check backend logs in terminal
-4. Verify all dependencies are installed
+- **Issues**: Please report bugs via [GitHub Issues](https://github.com/ambarish01/RealTicker/issues)
+- **Email**: ambarishsa10@gmail.com
+- **LinkedIn**: [Ambarish S A](www.linkedin.com/in/ambarish-s-a-5b52ba247)
 
 ---
 
